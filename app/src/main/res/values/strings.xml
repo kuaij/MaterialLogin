@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">XX管理系统</string>
+
+    <string name="login_title">XX管理系统</string>
+    <string name="hint_usename">用户名:</string>
+    <string name="hint_password">密码:</string>
+    <string name="copyright_information">2019 © XX管理系统</string>
+</resources>
